@@ -15,6 +15,10 @@ body {
   margin: auto;
   font-family: "Times New Roman", Times, serif;
 }
+.heart,
+.diamond {
+  color: red;
+}
 .heart:before {
   content: "♥";
   color: red;
